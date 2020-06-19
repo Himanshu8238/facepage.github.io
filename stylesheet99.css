@@ -1,0 +1,101 @@
+h1{
+	color:red;
+
+	font-family:Montserrat;
+	font-size:50px;
+}
+
+.container{
+	margin-left:70px;
+	margin-top:40px;
+	height:1000px;
+	width:420px;
+	font-family:Montserrat;
+    height:100px;
+
+}
+
+
+#forgottext{
+	margin-left: 10px;
+	font-family:Montserrat;
+}
+
+
+h2{
+	color:red;
+	margin-top: 40px;
+	font-size:50px;
+	font-family:Montserrat;
+}
+
+p{
+	color:black;
+	font-size:15px;
+	font-family:Montserrat;
+
+}
+
+input{
+	width:370px;
+	border-radius:10px;
+	border-outline:none;
+	height:15px;
+	font-family:Montserrat;
+	
+}
+
+
+
+button{
+  background-color:red;
+  border-radius: 40px;
+  text-decoration:blue;
+  border: none;
+ font-family:Montserrat;
+ width:300px;
+ margin-left:-120px;
+ margin-top:10px;
+ height:25px; 
+ margin-right: -10px;
+ height:30px;
+
+
+
+}
+
+
+a{
+	color:white;
+	font-family:Montserrat;
+}
+
+#image{
+	margin-left:500px;
+	margin-top: -2000px;
+	height:650px;
+	width:600px;
+	font-family:Montserrat;
+
+}
+
+img{
+	height:722px;
+	width:1000px;
+	font-family:Montserrat;
+}
+
+#register{
+	color:red;
+	font-family:Montserrat;
+
+}
+
+.www{
+	width:100vh;
+	height:700px;
+	margin-top: 0px;
+   font-family:Montserrat;
+}
+
+
